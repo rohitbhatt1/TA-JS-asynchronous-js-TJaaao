@@ -65,6 +65,7 @@ console.log('Third');
 6. Convert the synchronous code given below into asynchronous. If you execute this code it will print one, two and three. Change the code in such a way that it should print `one`, `three` and `two`. You are not allowed to move the code up and down.
 
 ```js
+
 console.log('one');
 console.log('two');
 console.log('three');
